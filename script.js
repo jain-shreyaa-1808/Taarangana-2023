@@ -102,3 +102,6 @@ function render(){
   requestAnimationFrame(render);
 }
 requestAnimationFrame(render);
+window.onclick = function(event) {
+ window.open("homepage.html");
+}

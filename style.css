@@ -15,16 +15,16 @@ body{
     position: absolute;
     height: auto;
     z-index: 2;
-    width: 10%;
+    width: 10vw;
     padding:0.5% 0%;
-    margin-left:46%;
-    margin-top: 25%;
+    margin-left:46vw;
+    margin-top: 60vh;
     background-image: linear-gradient(to bottom, rgb(140, 0, 255),rgb(255, 0, 128),rgb(247, 0, 255),rgb(255, 0, 128),rgb(251, 255, 0));
     border: none;
     border-radius: 7%;
     color:whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 35px;
+    font-size: 2vw;
     font-weight: 13px;
     align-items: center;
   }
@@ -51,10 +51,13 @@ body{
   }
   
   .anim-text {
-    font: 7em "Baloo Chettan", Helvetica Neueu, HelveticaNeueu, Helvetica, Arial;
+    font: 8vw "Baloo Chettan", Helvetica Neueu, HelveticaNeueu, Helvetica, Arial;
     white-space: nowrap;
-    min-width: 3em;
-    min-height: 4em;
+    
+    height: 7vh;
+    min-width: 0em;
+    min-height: 50%;
+    float: inherit;
     border-bottom: 1px solid transparent;
     caret-color: #f20dcc;
     font-weight: 700;
@@ -857,7 +860,7 @@ body{
     }
   }
   
- /*.btn, .control {
+ .btn, .control {
     padding: 0.5em 1em;
     font-size: 1.2em;
   }

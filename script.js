@@ -103,7 +103,7 @@ function render(){
 }
 requestAnimationFrame(render);
 window.onclick = function(event) {
- window.open("homepage.html");
+ window.open("Home/index.html","_self");
 }
 
 

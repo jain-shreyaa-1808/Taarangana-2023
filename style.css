@@ -29,6 +29,27 @@ body{
     align-items: center;
   }
 
+  @media (max-width: 800px)
+  {
+    button
+  {
+    position: absolute;
+    height: 15vw;
+    z-index: 2;
+    width: 35vw;
+    padding:0.5% 0%;
+    margin-left:30vw;
+    margin-top: 60vh;
+    background-image: linear-gradient(to bottom, rgb(140, 0, 255),rgb(255, 0, 128),rgb(247, 0, 255),rgb(255, 0, 128),rgb(251, 255, 0));
+    border: none;
+    border-radius: 7%;
+    color:whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 7vw;
+    font-weight: 13px;
+    align-items: center;
+  }
+  }
 
   @import 'https://fonts.googleapis.com/css?family=Baloo+Chettan|Gloria+Hallelujah';
   html, body, .anim-wrap {
@@ -1030,4 +1051,3 @@ body{
     -webkit-filter: drop-shadow(0px 1px 3px rgba(51, 0, 43, 0.3));
     filter: drop-shadow(0px 1px 3px rgba(51, 0, 43, 0.3));
   }
-*/

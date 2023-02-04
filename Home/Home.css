@@ -20,14 +20,14 @@
   position: absolute;
   height: auto;
   z-index: 2;
-  width: 15vw;
+  width: 12vw;
   padding:0.5% 0%;
   margin-left:0vw;
   margin-top: 52vh;
   /* background-image: linear-gradient(to bottom, rgb(140, 0, 255),rgb(255, 0, 128),rgb(247, 0, 255),rgb(255, 0, 128),rgb(251, 255, 0)); */
   background:  rgb(96,9,240);
   border: none;
-  border-radius: 7%;
+  border-radius: 12px;
   color:whitesmoke;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 2vw;

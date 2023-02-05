@@ -15,6 +15,7 @@ body{
     position: absolute;
     height: auto;
     z-index: 2;
+    cursor: pointer;
     width: 10vw;
     padding:0.5% 0%;
     margin-left:46vw;
@@ -35,6 +36,7 @@ body{
   {
     position: absolute;
     height: 15vw;
+    cursor: pointer;
     z-index: 2;
     width: 35vw;
     padding:0.5% 0%;

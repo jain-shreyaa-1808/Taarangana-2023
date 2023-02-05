@@ -669,6 +669,7 @@ body,html{
   
   section {
     height: 100vh;
+    overflow: hidden;
     font-size: 40px;
     font-weight: 100;
     /* background-color: #22A7F0; */

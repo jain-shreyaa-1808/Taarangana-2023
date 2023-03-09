@@ -1,5 +1,5 @@
 const eventsNames = [
-  'Mr and Ms Taarangana',
+  'Ms and Mr Taarangana',
   'Rangmanch',
   'Aaghaz',
   'Rap Battle',
@@ -26,7 +26,7 @@ const links=[
 ];
 
 const texts = [
-  "“Bright strokes of colours will flood the stage as the night begins,setting the tone for a euphoric evening.“<br><br>Mr and Ms Taarangana is a Title Pageant competition for those with glitz and glamour in their soul. If you are the one who can dazzle the audience with your charisma and stage presence, the crown is waiting to be yours.Arm yourselves with ecstatic grace, dazzle us with your thoughts, and win the Event’s high title.",
+  "“Bright strokes of colours will flood the stage as the night begins,setting the tone for a euphoric evening.“<br><br>Ms and Mr Taarangana is a Title Pageant competition for those with glitz and glamour in their soul. If you are the one who can dazzle the audience with your charisma and stage presence, the crown is waiting to be yours.Arm yourselves with ecstatic grace, dazzle us with your thoughts, and win the Event’s high title.",
   "“Monologue is the most honest way to represent human beings.“ <br>-George Saunders.<br><br>The function of an actor is to make the audience imagine that, for the moment, real things are happening to real people. Rangmanch is a mono-acting competition, giving all the budding actors a chance to get on the stage and enthral the audience with their act.",
   "“The theatre was created to tell people the truth about life and the social situation.“<br>-Stella Adler.<br><br>The nukkad-natak competition, Aaghaz, offers a stage for all performers to captivate the audience with enriching performances. Here is your chance to make your voice heard loud and clear.<br>Stand up, show up and make the stage blow up!",
   "“The life you live is more important than the words you speak.“<br>– Mac Miller<br><br>Rap is an ideal medium for zealous lyrical sagacity, with real-true verses and soulful rhythms that can captivate anyone. Taarangana’23 presents you with the Rap Battle, a stage for you to exhibit your euphonious talent that wins everyone's hearts.",
